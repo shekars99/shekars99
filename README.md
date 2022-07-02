@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shekars99
-- 👀 I’m interested in Blockchain, BTC, ETH, SOL
-- 🌱 I’m currently learning Blockchain, Smart Contracts, Solidity
-- 💞️ I’m looking to collaborate on Blockchain Projects 
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning Python, Data Science with Python and ML
+- 💞️ I’m looking to collaborate on Data Science and Anlytics Projects 
 - 📫 How to reach me ...
 
 <!---
