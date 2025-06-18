@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shekars99
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Python, Data Science with Python and ML
-- 💞️ I’m looking to collaborate on Data Science and Anlytics Projects 
+- 👀 I’m interested in AI, Data Science and Analytics
+- 🌱 I’m currently learning Python, ML and Gen AI
+- 💞️ I’m looking to collaborate on Gen AI Projects 
 - 📫 How to reach me ...
 
 <!---
